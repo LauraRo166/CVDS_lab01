@@ -1,8 +1,8 @@
 # CVDS Laboratorio 01
 
 ## **Link repositorios git**
--*1*
--*2*
+- link2
+- link1
 
 ## **Respuestas Parte I**
 
