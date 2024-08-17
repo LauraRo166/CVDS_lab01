@@ -14,9 +14,12 @@ El comando git add se utiliza para agregar cambios en los archivos del directori
 
 El comando git commit -m "mensaje" guarda los cambios registrado en el área de preparación en el repositorio con un mensaje que describe los cambios realizados. Este mensaje sirve como un historial de commits. 
 
+*Laura Rodríguez*
+
 ## **Respuestas Parte II**
 
 **6.** *¿Qué sucedió?*
+
 No se permitió el push para uno de los desarrolladores.
 
 ![alt text](<Screenshot 2024-08-17 120913.png>)
@@ -25,4 +28,4 @@ No se permitió el push para uno de los desarrolladores.
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
 - *https://www.atlassian.com/es/git/glossary#commands*
 
-*Laura Rodríguez*
+
