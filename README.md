@@ -18,7 +18,8 @@ El comando git commit -m "mensaje" guarda los cambios registrado en el área de 
 
 **6.** *¿Qué sucedió?*
 No se permitió el push para uno de los desarrolladores.
-![alt text](<Screenshot 2024-08-17 120913-1.png>)
+
+![alt text](<Screenshot 2024-08-17 120913.png>)
 
 ## **Referencias**
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
