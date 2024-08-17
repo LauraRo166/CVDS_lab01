@@ -24,6 +24,14 @@ No se permitió el push para uno de los desarrolladores.
 
 ![alt text](<Screenshot 2024-08-17 120913.png>)
 
+
+
+### Pull Request
+
+Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket push request), en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master.
+
+
+
 ## **Referencias**
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
 - *https://www.atlassian.com/es/git/glossary#commands*
