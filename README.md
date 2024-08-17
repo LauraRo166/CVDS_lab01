@@ -17,12 +17,11 @@ El comando git commit -m "mensaje" guarda los cambios registrado en el área de 
 ## **Respuestas Parte II**
 
 **6.** *¿Qué sucedió?*
+No se permitió el push para uno de los desarrolladores.
+![alt text](<Screenshot 2024-08-17 120913-1.png>)
 
 ## **Referencias**
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
 - *https://www.atlassian.com/es/git/glossary#commands*
 
 *Laura Rodríguez*
-
-
-El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir.
