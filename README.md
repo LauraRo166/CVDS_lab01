@@ -1,8 +1,14 @@
 # CVDS Laboratorio 01
 
+## **Integrantes**
+
+- Sergio Andrés Bejarano Rodríguez
+- Laura Daniela Rodríguez Sánchez
+
 ## **Link repositorios git**
-- link2
-- link1
+
+- https://github.com/LauraRo166/CVDS_lab01.git
+- https://github.com/SergioBejarano/Laboratory-01-CVDS.git
 
 ## **Respuestas Parte I**
 
@@ -16,14 +22,17 @@ El comando git commit -m "mensaje" guarda los cambios registrado en el área de 
 
 *Laura Rodríguez*
 
-## **Respuestas Parte II**
+## **Parte II**
 
-**6.** *¿Qué sucedió?*
+Se invitó al colaborador a formar parte del repositorio (CVDS_lab01)
 
-No se permitió el push para uno de los desarrolladores.
+![alt text](image.png)
+
+Al realizar cambios e intentar realizar push al mismo tiempo no se permitió el mismo para uno de los desarrolladores.
 
 ![alt text](<Screenshot 2024-08-17 120913.png>)
 
+<<<<<<< HEAD
 
 
 ### Pull Request
@@ -31,6 +40,18 @@ No se permitió el push para uno de los desarrolladores.
 Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket push request), en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master.
 
 
+=======
+Por lo que se realizó pull y se resolvieron manualmente los conflictos.
+
+![alt text](image-1.png)
+
+## **Respuestas Parte III**
+
+**1.** *¿Hay una mejor forma de trabajar con git para no tener conflictos?*
+
+Implementar prácticas como frecuentes pulls, pequeños commits y usar Git Flow ayuda a minimizar conflictos y a mejorar la forma de trabajar en Git. 
+Git Flow organiza el desarrollo en ramas específicas, lo que facilita la resolución de conflictos al mantener cambios aislados y organizados.
+>>>>>>> 89e44e557e1a486936d24116e5ce168a7f91c1ff
 
 ## **Referencias**
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
