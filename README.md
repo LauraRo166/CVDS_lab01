@@ -36,6 +36,8 @@ Por lo que se realizó pull y se resolvieron manualmente los conflictos.
 
 ![alt text](image-1.png)
 
+Se creó un nuevo conflicto para resolver en IntelliJ:
+
 ## **Respuestas Parte III**
 
 **1.** _¿Hay una mejor forma de trabajar con git para no tener conflictos?_
