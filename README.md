@@ -51,6 +51,8 @@ Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket p
 
 ## Nuevas ramas
 
+![img.png](img.png)
+
 ## Pull Request
 
 ## **Referencias**
