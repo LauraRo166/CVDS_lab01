@@ -26,25 +26,25 @@ _Laura Rodríguez_
 
 Se invitó al colaborador a formar parte del repositorio (CVDS_lab01)
 
-![alt text](https://drive.google.com/file/d/1V8RPl4Imsymp22Dyll_gJ_EfcvrSjPHc/view?usp=sharing)
+![alt text](https://drive.google.com/uc?export=view&id=1V8RPl4Imsymp22Dyll_gJ_EfcvrSjPHc)
 
 Al realizar cambios e intentar realizar push al mismo tiempo no se permitió el mismo para uno de los desarrolladores.
 
-![alt text](https://drive.google.com/file/d/1LsRmPBfdezGhTXCn_JLfhzm9AH9ilORW/view?usp=sharing)
+![alt text](https://drive.google.com/uc?export=view&id=1LsRmPBfdezGhTXCn_JLfhzm9AH9ilORW)
 
 Por lo que se realizó pull y se resolvieron manualmente los conflictos.
 
-![alt text](https://drive.google.com/file/d/1V8RPl4Imsymp22Dyll_gJ_EfcvrSjPHc/view?usp=sharing)
+![alt text](https://drive.google.com/uc?export=view&id=14Zp0-Aj4G60g1MFLcEjhwJUCBq4AFr36)
 
 Se creó un nuevo conflicto para resolver en IntelliJ:
 
-![img_1.png](https://drive.google.com/file/d/1GVsJs33nMY9Y0d_hOqYQ_EBp8tHEe_2d/view?usp=sharing)
+![img_1.png](https://drive.google.com/uc?export=view&id=1GVsJs33nMY9Y0d_hOqYQ_EBp8tHEe_2d)
 
-![img_2.png](https://drive.google.com/file/d/1GVsJs33nMY9Y0d_hOqYQ_EBp8tHEe_2d/view?usp=sharing)
+![img_2.png](https://drive.google.com/uc?export=view&id=1GMXnKPdHLR1UHFOctfQNXAFzPxs2qVIP)
 
-![img_3.png](https://drive.google.com/file/d/1GNkKEO-sd3hqt6c2sYFgQyljjevzy_7K/view?usp=sharing)
+![img_3.png](https://drive.google.com/uc?export=view&id=1GNkKEO-sd3hqt6c2sYFgQyljjevzy_7K)
 
-![img_4.png](https://drive.google.com/file/d/1Rarmd_Gp7f9f-CH3PF9UJNMk2805IVmK/view?usp=sharing)
+![img_4.png](https://drive.google.com/uc?export=view&id=1Rarmd_Gp7f9f-CH3PF9UJNMk2805IVmK)
 
 ## **Respuestas Parte III**
 
@@ -63,7 +63,7 @@ La rama correspondiente a Laura Rodríguez es feature/laura.
 
 Y la rama correspondiente a Sergio Bejarano es feature/sergio.
 
-![img.png](https://drive.google.com/file/d/1PbyKaBAR7uIDCi4YIApBkPknXUYLLkOm/view?usp=sharing)
+![img.png](https://drive.google.com/uc?export=view&id=1PbyKaBAR7uIDCi4YIApBkPknXUYLLkOm)
 
 ### Pull Request
 
