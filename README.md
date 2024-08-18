@@ -26,25 +26,25 @@ _Laura Rodríguez_
 
 Se invitó al colaborador a formar parte del repositorio (CVDS_lab01)
 
-![alt text](image.png)
+![alt text](https://drive.google.com/file/d/1V8RPl4Imsymp22Dyll_gJ_EfcvrSjPHc/view?usp=sharing)
 
 Al realizar cambios e intentar realizar push al mismo tiempo no se permitió el mismo para uno de los desarrolladores.
 
-![alt text](<Screenshot 2024-08-17 120913.png>)
+![alt text](https://drive.google.com/file/d/1LsRmPBfdezGhTXCn_JLfhzm9AH9ilORW/view?usp=sharing)
 
 Por lo que se realizó pull y se resolvieron manualmente los conflictos.
 
-![alt text](image-1.png)
+![alt text](https://drive.google.com/file/d/1V8RPl4Imsymp22Dyll_gJ_EfcvrSjPHc/view?usp=sharing)
 
 Se creó un nuevo conflicto para resolver en IntelliJ:
 
-![img_1.png](img_1.png)
+![img_1.png](https://drive.google.com/file/d/1GVsJs33nMY9Y0d_hOqYQ_EBp8tHEe_2d/view?usp=sharing)
 
-![img_2.png](img_2.png)
+![img_2.png](https://drive.google.com/file/d/1GVsJs33nMY9Y0d_hOqYQ_EBp8tHEe_2d/view?usp=sharing)
 
-![img_3.png](img_3.png)
+![img_3.png](https://drive.google.com/file/d/1GNkKEO-sd3hqt6c2sYFgQyljjevzy_7K/view?usp=sharing)
 
-![img_4.png](img_4.png)
+![img_4.png](https://drive.google.com/file/d/1Rarmd_Gp7f9f-CH3PF9UJNMk2805IVmK/view?usp=sharing)
 
 ## **Respuestas Parte III**
 
@@ -63,13 +63,13 @@ La rama correspondiente a Laura Rodríguez es feature/laura.
 
 Y la rama correspondiente a Sergio Bejarano es feature/sergio.
 
-![img.png](img.png)
+![img.png](https://drive.google.com/file/d/1PbyKaBAR7uIDCi4YIApBkPknXUYLLkOm/view?usp=sharing)
 
 ### Pull Request
 
 Se realizaron dos pull request.
 
-![img_5.png](img_5.png)
+
 
 ## **Referencias**
 
