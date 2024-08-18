@@ -18,9 +18,9 @@ El comando git add se utiliza para agregar cambios en los archivos del directori
 
 ### **git commit -m "mensaje"**
 
-El comando git commit -m "mensaje" guarda los cambios registrado en el área de preparación en el repositorio con un mensaje que describe los cambios realizados. Este mensaje sirve como un historial de commits. 
+El comando git commit -m "mensaje" guarda los cambios registrado en el área de preparación en el repositorio con un mensaje que describe los cambios realizados. Este mensaje sirve como un historial de commits.
 
-*Laura Rodríguez*
+_Laura Rodríguez_
 
 ## **Parte II**
 
@@ -32,29 +32,22 @@ Al realizar cambios e intentar realizar push al mismo tiempo no se permitió el 
 
 ![alt text](<Screenshot 2024-08-17 120913.png>)
 
-<<<<<<< HEAD
-
-
-### Pull Request
-
-Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket push request), en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master.
-
-
-=======
 Por lo que se realizó pull y se resolvieron manualmente los conflictos.
 
 ![alt text](image-1.png)
 
 ## **Respuestas Parte III**
 
-**1.** *¿Hay una mejor forma de trabajar con git para no tener conflictos?*
+**1.** _¿Hay una mejor forma de trabajar con git para no tener conflictos?_
 
-Implementar prácticas como frecuentes pulls, pequeños commits y usar Git Flow ayuda a minimizar conflictos y a mejorar la forma de trabajar en Git. 
+Implementar prácticas como frecuentes pulls, pequeños commits y usar Git Flow ayuda a minimizar conflictos y a mejorar la forma de trabajar en Git.
 Git Flow organiza el desarrollo en ramas específicas, lo que facilita la resolución de conflictos al mantener cambios aislados y organizados.
->>>>>>> 89e44e557e1a486936d24116e5ce168a7f91c1ff
+
+**2.** _¿Qué es y como funciona el Pull Request?_
+
+Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket push request), en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master. Al hacer pull request se genera una conversación que pueden seguir los demás usuarios del repositorio, así como autorizar y rechazar los cambios.
 
 ## **Referencias**
+
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
 - *https://www.atlassian.com/es/git/glossary#commands*
-
-
