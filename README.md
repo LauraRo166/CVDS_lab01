@@ -69,10 +69,15 @@ Y la rama correspondiente a Sergio Bejarano es feature/sergio.
 
 Se realizaron dos pull request.
 
+![img_5.png](https://drive.google.com/uc?export=view&id=1bX-geUO0NadZLMjvllrCsOpw99aTzyTh)
 
+![img_6.png](https://drive.google.com/uc?export=view&id=1KyOqDzFzr88eHdHAcJWkDfSK5aatbeZ4)
+
+Y finalmente las dos ramas fueron eliminadas:
+
+![img_7.png0](https://drive.google.com/uc?export=view&id=1TVHGv7MpHfVn8KgyHqnIg-MSeru1JdTP)
 
 ## **Referencias**
-
 
 - *https://itdo.com/blog/guia-de-git-para-principiantes/*
 - *https://www.atlassian.com/es/git/glossary#commands*
