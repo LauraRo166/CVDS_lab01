@@ -26,15 +26,15 @@ _Laura Rodríguez_
 
 Se invitó al colaborador a formar parte del repositorio (CVDS_lab01)
 
-![alt text](image.png)
+![alt text](https://drive.google.com/uc?export=view&id=1V8RPl4Imsymp22Dyll_gJ_EfcvrSjPHc)
 
 Al realizar cambios e intentar realizar push al mismo tiempo no se permitió el mismo para uno de los desarrolladores.
 
-![alt text](<Screenshot 2024-08-17 120913.png>)
+![alt text](https://drive.google.com/uc?export=view&id=1LsRmPBfdezGhTXCn_JLfhzm9AH9ilORW)
 
 Por lo que se realizó pull y se resolvieron manualmente los conflictos.
 
-![alt text](image-1.png)
+![alt text](https://drive.google.com/uc?export=view&id=14Zp0-Aj4G60g1MFLcEjhwJUCBq4AFr36)
 
 Se creó un nuevo conflicto para resolver en IntelliJ:
 
