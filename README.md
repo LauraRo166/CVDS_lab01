@@ -69,8 +69,9 @@ Y la rama correspondiente a Sergio Bejarano es feature/sergio.
 
 Se realizaron dos pull request.
 
+![img.png] (https://drive.google.com/uc?export=view&id=1bX-geUO0NadZLMjvllrCsOpw99aTzyTh)
 
-
+Y finalmente las dos ramas fueron eliminadas
 
 ## **Referencias**
 
