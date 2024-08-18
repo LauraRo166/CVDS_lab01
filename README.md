@@ -38,6 +38,14 @@ Por lo que se realizó pull y se resolvieron manualmente los conflictos.
 
 Se creó un nuevo conflicto para resolver en IntelliJ:
 
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
+
+![img_4.png](img_4.png)
+
 ## **Respuestas Parte III**
 
 **1.** _¿Hay una mejor forma de trabajar con git para no tener conflictos?_
@@ -49,11 +57,15 @@ Git Flow organiza el desarrollo en ramas específicas, lo que facilita la resolu
 
 Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket push request), en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master. Al hacer pull request se genera una conversación que pueden seguir los demás usuarios del repositorio, así como autorizar y rechazar los cambios.
 
-## Nuevas ramas
+# Nuevas ramas
+
+La rama correspondiente a Laura Rodríguez es feature/laura.
+
+Y la rama correspondiente a Sergio Bejarano es feature/sergio.
 
 ![img.png](img.png)
 
-## Pull Request
+# Pull Request
 
 ## **Referencias**
 
