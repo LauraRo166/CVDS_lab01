@@ -51,6 +51,10 @@ Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket p
 
 ## Nuevas ramas
 
+La rama correspondiente a Laura Rodríguez es: feature/laura
+
+Y la correspondiente a Sergio Bejarano es: feature/sergio
+
 ## Pull Request
 
 ## **Referencias**
