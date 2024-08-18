@@ -57,7 +57,7 @@ Git Flow organiza el desarrollo en ramas específicas, lo que facilita la resolu
 
 Es una funcionalidad de github (en gitlab llamada merge request y en bitbucket push request), en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master. Al hacer pull request se genera una conversación que pueden seguir los demás usuarios del repositorio, así como autorizar y rechazar los cambios.
 
-# Nuevas ramas
+### Nuevas ramas
 
 La rama correspondiente a Laura Rodríguez es feature/laura.
 
@@ -65,7 +65,11 @@ Y la rama correspondiente a Sergio Bejarano es feature/sergio.
 
 ![img.png](img.png)
 
-# Pull Request
+### Pull Request
+
+Se realizaron dos pull request.
+
+![img_5.png](img_5.png)
 
 ## **Referencias**
 
